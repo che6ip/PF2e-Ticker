@@ -1,0 +1,22 @@
+{
+  "ITEMTICKER": {
+    "Summary": {
+      "Title": "Ticker: {actor}",
+      "HP": "HP: {before} → {after}.",
+      "Persistent": "{name}: {ticks}, {damage} damage{recovery}.",
+      "Recovered": ", recovered on tick {tick}{checks}",
+      "StillActive": ", still active{checks}",
+      "RecoveryChecks": " (DC {dc}; rolls: {rolls})",
+      "Healing": "{type} ({name}): {ticks}, {healed} HP healed{note}.",
+      "TickOne": "1 tick",
+      "TickMany": "{count} ticks",
+      "AtMax": " (at maximum)",
+      "Expired": " (effect expired)",
+      "Dead": "The character is dead; further ticks stopped."
+    },
+    "Healing": {
+      "FastHealing": "Fast healing",
+      "Regeneration": "Regeneration"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ITEMTICKER": {
+    "Summary": {
+      "Title": "Тикер: {actor}",
+      "HP": "HP: {before} → {after}.",
+      "Persistent": "{name}: {ticks}, {damage} урона{recovery}.",
+      "Recovered": ", восстановление на тике {tick}{checks}",
+      "StillActive": ", всё ещё активно{checks}",
+      "RecoveryChecks": " (DC {dc}; броски: {rolls})",
+      "Healing": "{type} ({name}): {ticks}, {healed} HP восстановлено{note}.",
+      "TickOne": "1 тик",
+      "TickMany": "{count} тиков",
+      "AtMax": " (максимум HP)",
+      "Expired": " (эффект истёк)",
+      "Dead": "Персонаж мёртв; дальнейшие тики остановлены."
+    },
+    "Healing": {
+      "FastHealing": "Быстрое лечение",
+      "Regeneration": "Регенерация"
+    }
+  }
+}
